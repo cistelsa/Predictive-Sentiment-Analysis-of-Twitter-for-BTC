@@ -8,7 +8,7 @@
 
 This project aims to analyze the sentiment of Twitter users towards Bitcoin using machine learning techniques to predict market trends and provide insights for investors.
 
-### Task Lists
+## Task Lists
 - [x] [Creación del Proyecto en Github #1](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/1)
 - [ ] #2
 - [ ] #3
