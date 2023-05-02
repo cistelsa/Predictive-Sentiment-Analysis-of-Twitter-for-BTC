@@ -6,3 +6,6 @@ This project aims to analyze the sentiment of Twitter users towards Bitcoin usin
 - [ ] https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/1
 - [ ] #2
 - [ ] #3
+
+### Group
+@cistelsa/support
