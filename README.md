@@ -8,14 +8,22 @@
 
 This project aims to analyze the sentiment of Twitter users towards Bitcoin using machine learning techniques to predict market trends and provide insights for investors.
 
-## Data Engineer
-- [x] [Creación del Proyecto en Github #1](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/1)
-- [ ] [#2]
-- [ ] #3
+## Task
+- [x] [#1](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/1)
+- [ ] [#2](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/2)
+- [ ] [#3](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/3)
+- [ ] [#4](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/4)
+- [ ] [#5](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/5)
+- [ ] [#6](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/6)
+- [ ] [#7](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/7)
+- [ ] [#8](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/8)
+- [ ] [#9](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/9)
+- [ ] [#10](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/10)
+- [ ] [#11](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/11)
+- [ ] [#12](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/12)
+- [ ] [#13](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/13)
+- [ ] [#14](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/14)
 
-- [x] Tarea 1
-- [ ] Tarea 2
-- [ ] Tarea 3
 ## Data Engineer
 
 ### Overview
