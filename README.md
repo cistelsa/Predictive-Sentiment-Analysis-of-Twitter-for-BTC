@@ -10,7 +10,7 @@ This project aims to analyze the sentiment of Twitter users towards Bitcoin usin
 
 ## Data Engineer
 - [x] [Creación del Proyecto en Github #1](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/1)
-- [ ] #2
+- [ ] [#2]
 - [ ] #3
 - [ ] 
 ## Data Engineer
