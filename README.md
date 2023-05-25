@@ -11,7 +11,7 @@ This project aims to analyze the sentiment of Twitter users towards Bitcoin usin
 ## Task
 | Tarea 1       | Tarea 2       |
 | ------------- | ------------- |
-| [x] Completada | [x] Completada |
+| - [x] [#1](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/1) | [x] Completada |
 | [ ] Pendiente  | [x] Completada |
 | [ ] Pendiente  | [ ] Pendiente  |
 - [x] [#1](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/issues/1)
