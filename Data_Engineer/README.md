@@ -12,7 +12,7 @@ This roadmap outlines the key steps involved in the data engineering process for
 
 - [ ] **Deep Data Cleaning**
   - [ ] Perform thorough data cleaning processes to ensure data quality and consistency.
-  - [ ] Remove duplicate tweets, irrelevant information, and noisy data.
+  - [x] Remove duplicate tweets, irrelevant information, and noisy data.
   - [ ] Handle missing values and incorrect data formats.
   - [ ] Apply text preprocessing techniques to clean and normalize the textual content of the tweets.
 
@@ -23,14 +23,14 @@ This roadmap outlines the key steps involved in the data engineering process for
   - [ ] Establish appropriate primary and foreign key relationships between the tables.
 
 - [ ] **Local Database Architecture**
-  - [ ] Choose a suitable relational database management system (e.g., MySQL, PostgreSQL) for local data storage.
+  - [x] Choose a suitable relational database management system (e.g., MySQL, PostgreSQL) for local data storage.
   - [ ] Set up the database system locally and configure the necessary credentials.
   - [ ] Create the required database tables based on the normalized schema design.
   - [ ] Establish connections between the application and the local database for data insertion and retrieval.
 
 - [ ] **Cloud Deployment on Alibaba Cloud**
-  - [ ] Evaluate cloud service providers and determine Alibaba Cloud as the preferred option.
-  - [ ] Create an Alibaba Cloud account and set up the necessary credentials.
+  - [x] Evaluate cloud service providers and determine Alibaba Cloud as the preferred option.
+  - [x] Create an Alibaba Cloud account and set up the necessary credentials.
   - [ ] Deploy the database system on Alibaba Cloud, ensuring proper security measures and scalability options.
   - [ ] Migrate the local database schema and data to the cloud environment.
   - [ ] Test the connectivity and functionality of the cloud-based database.
