@@ -3,8 +3,6 @@
 
 This roadmap outlines the key steps involved in the data engineering process for extracting and preparing Twitter data related to Bitcoin using the Tweepy library. It also includes the constant extraction of Bitcoin prices through the Coingecko API to find correlations between Twitter sentiment and BTC price. The roadmap is presented in a checklist format within a code environment (.md file) for easy tracking of tasks. The roadmap is as follows:
 
-## Checklist
-
 - [x] **Twitter Data Extraction**
   - [x] Set up a Twitter Developer account and obtain API credentials.
   - [x] Install and configure the Tweepy library for accessing the Twitter API.
