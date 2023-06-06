@@ -1,5 +1,5 @@
 ![banner-md-ml-data-sciense](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/assets/17438992/b6bc0f79-5f6a-4e34-9fe3-1b0f89d44854)
-# Roadmap: Sentiment Prediction for BTC
+# Roadmap: Data Scientists and Machine Learning - Sentiment Prediction for BTC
 
 This roadmap outlines the key steps involved in sentiment prediction for Bitcoin (BTC) using data provided by Data Engineers. The objective is to build highly reliable sentiment prediction models, including linear regression models, and introduce a novel model to enhance the project's value. The roadmap also includes the use of data visualizations to analyze BTC sentiment over time, incorporating graphs to visualize sentiment, predictions, and influential tweets categorized as positive, negative, or neutral. The results will be presented publicly, shared with Data Engineers and Analysts, and used as input for the creation of a frontend interface and an API for client consumption. The roadmap is as follows:
 
