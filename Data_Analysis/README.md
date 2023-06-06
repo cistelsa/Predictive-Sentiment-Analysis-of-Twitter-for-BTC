@@ -41,7 +41,5 @@ This roadmap outlines the key steps involved in the sentiment analysis of Bitcoi
   - [ ] Explain the insights to Data Engineers, emphasizing the relationship between tweet sentiment and BTC price and its relevance for decision-making.
   - [ ] Communicate the results and implications to Data Scientists/ML teams, providing valuable information for future models and strategies related to Bitcoin.
 
-Please note that this roadmap focuses on the key tasks for sentiment analysis of Bitcoin, correlation with BTC price, and delivering results to Data Engineering and Data Scientists/ML teams. You can adapt it based on the specific needs of your project.
-
 
 
